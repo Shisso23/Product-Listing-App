@@ -1,5 +1,7 @@
 
-## About Laravel
+## About The product listing App
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+The app Built with Laravel and React. The backend is a Rest API with A MySQL database.
+
+On the front-end it's react and bootstrap.
 
